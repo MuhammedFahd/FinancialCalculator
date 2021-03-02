@@ -1,0 +1,12 @@
+
+Initial Deposit= 10000.0
+Interest Rate= 50.0
+Time= 5.0
+Future Value= 115804.65514592524
+
+Initial Deposit= 10000.0
+Interest Rate= 25.0
+Time= 3.0
+Monthly Deposit= 1000.0
+Future Value= 73843.48970084857
+

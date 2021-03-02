@@ -1,0 +1,55 @@
+#tab1{
+    -fx-background-color: #3399ff;
+    -fx-border-style:solid;
+    -fx-border-radius:3px;
+}
+#tab2{
+    -fx-background-color:#3399ff;
+    -fx-border-style:solid;
+    -fx-border-radius:3px;
+}
+#tab3{
+    -fx-background-color: #3399ff;
+    -fx-border-style:solid;
+    -fx-border-radius:3px;
+}
+#tab4{
+    -fx-background-color:#3399ff;
+    -fx-border-style:solid;
+    -fx-border-radius:3px;
+}
+#tab5{
+    -fx-background-color:#ff9900;
+    -fx-border-style:solid;
+    -fx-border-radius:3px;
+}
+.label{
+     -fx-font-size:12px;
+     -fx-font-weight:bold;
+}
+
+#calculate{
+    -fx-background-color:green;
+    -fx-text-fill:white;
+    -fx-font-size:14px;
+    -fx-border-style:solid;
+    -fx-border-radius:5px;
+}
+
+#help{
+    -fx-background-color:#cccc00;
+    -fx-text-fill:white;
+    -fx-font-size:14px;
+    -fx-border-style:solid;
+    -fx-border-radius:5px;
+}
+
+#keyboard{
+    -fx-background-color:#3399ff;
+}
+.button{
+    -fx-background-color:#006666;
+    -fx-text-fill:white;
+    -fx-font-size:15px;
+    -fx-border-color:#001a1a;
+}
