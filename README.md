@@ -8,5 +8,5 @@ This is a Financial app created using Java and JavaFx to build the user interfac
 Each calculator can be accessed seperately and also each parameter in every calculator can be calculated seperately. This app also has an feature called history where it shows all the calculations that have been processed by the user.
 
 ### Note
-- pure java programming concepts are used.
+- Pure java programming concepts are used.
 - Storing of data is done through file handling.
